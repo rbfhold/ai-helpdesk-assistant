@@ -1,0 +1,6 @@
+Streamlit
+LangChain
+OpenAI
+ChromaDB
+dotenv
+PyPDFLoader

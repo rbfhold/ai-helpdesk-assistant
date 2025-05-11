@@ -1,0 +1,14 @@
+# Ignore environment variables
+.env
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore OS and IDE files
+.DS_Store
+.vscode/
+
+# Optional: Ignore uploaded PDFs and ChromaDB files
+data/
+chroma_db/
