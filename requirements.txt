@@ -1,6 +1,5 @@
-Streamlit
-LangChain
-OpenAI
-ChromaDB
-dotenv
-PyPDFLoader
+streamlit
+langchain
+openai
+chromadb
+python-dotenv

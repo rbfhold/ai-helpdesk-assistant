@@ -5,6 +5,9 @@ import streamlit as st
 import os
 import subprocess
 from rag_chain import ask_question
+from langchain_community.chat_models import ChatOpenAI
+from langchain_community.vectorstores import Chroma
+from langchain_community.embeddings import OpenAIEmbeddings
 
 st.set_page_config(page_title="AI Helpdesk Assistant", page_icon="🧠")
 st.title("🧠 AI-Powered Helpdesk Assistant")
